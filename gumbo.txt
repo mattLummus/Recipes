@@ -25,11 +25,6 @@ Roux:
 --Heat for 90 minutes, stirring every 15-20 minutes
 --The easiest way to tell when done is by smell. It should have a distinct toasty aroma but not hints of burning, and a dark "red brick" color.
 
-Seafood Stock:
---Add shells, 1 qt of vegetable stock, 2 qts of water, 1 cup of orange juice, 2 bay leaves, and 1 tablespoon of rosemary
---bring to a boil and then simmer for about 45 minutes.
---Strain and then simmer for another 15.
-
 Seasoning Mixture:
 * 1 tablespoon of chipotle paste (optional. To make just take a can of chipotle in adobo and puree. This is something I keep in my fridge at all times.)
 * 2 tablespoons of chili powder
@@ -45,15 +40,20 @@ Seasoning Mixture:
 * 1 tablespoon of dried parsley
 * 1 teaspoon of dried basil
 
+Seafood Stock:
+--Add shells, 1 qt of vegetable stock, 2 qts of water, 1 cup of orange juice, 2 bay leaves, and 1 tablespoon of rosemary
+--bring to a boil and then simmer for about 45 minutes.
+--Strain and then simmer for another 15.
 
 1. Prep
 * Finely chop onion, bell pepper, and garlic. Dice celery the celery a little thicker. This mixture is called the Holy Trinity (with the addition of garlic)
 * Thaw Shrimp if frozen and remove shells. Devein if desired.
+* Take the shells and start making the Seafood Stock.
 
 2. Sautee
-* Add olive oil and brown sausage. Set aside.
-* In the same pan, sautee the trinity for about half an hour. Add to sausage.
-* Deglaze pan with liqour and add to sausage and trinity.
+* Add olive oil and brown sausage. Then remove the sausage but leave the oil. Set aside.
+* In the same pan, sautee the trinity for about half an hour. Add to the sausage.
+* Deglaze the pan with liqour and add to the sausage and trinity mix.
 
 3. Boil
 * When the stock is done and strained, add 1/3 back, mix in the roux, and then add back the rest. (the stock should be reduced to about 2 qts now of liquid now. If not, just add water back to replace)
