@@ -1,3 +1,9 @@
+Shrimp and Sausage Gumbo
+* Takes about two hours to make. There is a bit of work involved but is well worth it to make from scratch.
+* This is a fairly economical meal to make. Purchased all ingredients for about $40-50 and provides 10-15 servings, although you could easily stretch it to 20.
+* This is pretty spicy, although there is no cayenne. The seasoning mix lends a lot of flavor and the heat.
+* If it is a bit too spicy, leave out the chipotle and use half the black pepper.
+
 Main Ingredients:
 * 1qt of Vegetable Stock.
 * 1 lb of shrimp, raw with shells on. Frozen is fine, but try to find them with heads still on as well.
@@ -40,24 +46,28 @@ Seasoning Mixture:
 * 1 teaspoon of dried basil
 
 
-1. Prep
---Finely chop onion, bell pepper, and garlic. Dice celery the celery a little thicker. This mixture is called the Holy Trinity (with the addition of garlic)
---Thaw Shrimp if frozen and remove shells. Devein if desired.
+"1" Prep
 
-2. Sautee
---Add olive oil and brown sausage. Set aside.
---In the same pan, sautee the trinity for about half an hour. Add to sausage.
---Deglaze pan with liqour and add to sausage and trinity.
---Remove and set aside
+* Finely chop onion, bell pepper, and garlic. Dice celery the celery a little thicker. This mixture is called the Holy Trinity (with the addition of garlic)
+* Thaw Shrimp if frozen and remove shells. Devein if desired.
 
-3. Boil
---When the stock is done and strained, add 1/3 back, mix in the roux, and then add back the rest. (the stock should be reduced to about 2 qts now of liquid now. If not, just add water back to replace)
---Add the seasoning mixture, trinity, sausage, and turnip greens. Simmer on low heat for 30 minutes.
---Remove from heat.
---Lastly add the shrimp to the pot and simmer for about 10 minutes before serving. There is enough residual heat to cook them through.
+"2" Sautee
 
-4. Serve
---Serve over rice or with crackers
+* Add olive oil and brown sausage. Set aside.
+* In the same pan, sautee the trinity for about half an hour. Add to sausage.
+* Deglaze pan with liqour and add to sausage and trinity.
+* Remove and set aside
+
+"3" Boil
+
+* When the stock is done and strained, add 1/3 back, mix in the roux, and then add back the rest. (the stock should be reduced to about 2 qts now of liquid now. If not, just add water back to replace)
+* Add the seasoning mixture, trinity, sausage, and turnip greens. Simmer on low heat for 30 minutes.
+* Remove from heat.
+* Lastly add the shrimp to the pot and simmer for about 10 minutes before serving. There is enough residual heat to cook them through.
+
+"4" Serve
+
+* Serve over rice or with crackers
 
 (alternatively you can grill or sautee the shrimp separately and add right at the time of serving. The point is that you shouldn't overcook them because they will become tough and rubbery)
 
